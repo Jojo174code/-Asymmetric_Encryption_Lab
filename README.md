@@ -1,4 +1,4 @@
-# -Asymmetric_Encryption_Lab
+# Asymmetric_Encryption_Lab
 
 
 🔐 Lab 3.14: Asymmetric Encryption (Zybooks)
